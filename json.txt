@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
+  {"desc1":"Advanced game development workshops may cover topics like artificial intelligence for non-player characters (NPCs), physics simulation, advanced rendering techniques, and multiplayer game networking. You'll also explore game monetization strategies, including in-app purchases, ads, and virtual goods. ",
    "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc2":"In advanced UI/UX workshops, you'll delve into micro-interactions, motion design, and designing for accessibility. You'll also explore user testing methodologies like A/B testing and usability testing, enabling you to fine-tune your app's user experience.","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc3":" Advanced IoT workshops may involve creating complex IoT ecosystems, integrating edge computing, and building custom IoT solutions using microcontrollers and IoT platforms. You'll learn about IoT security, data analytics, and real-time monitoring.","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc4":"Advanced AI workshops will teach you how to train custom machine learning models, use TensorFlow or PyTorch for deep learning, and implement natural language processing (NLP) or computer vision in your apps. You'll also explore ethical considerations in AI development.","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"desc5":" In advanced AR and VR workshops, you'll work with advanced AR libraries like ARKit and ARCore, explore 3D modeling and animation, and create immersive virtual worlds. You'll also tackle challenges like user comfort and performance optimization.","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"descd":"Advanced enterprise app workshops may cover topics like integration with enterprise resource planning (ERP) systems, secure communication protocols, and implementing role-based access control (RBAC) for corporate apps. You'll also delve into app deployment within corporate environments.","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
    ]
  
 }
